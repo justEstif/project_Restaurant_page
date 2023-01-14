@@ -1,6 +1,6 @@
 # Project: Restaurant Page
 
-- Live link: <>
+- Live link: <https://project-restaurant-page.vercel.app/>
 
 ## Purpose
 
